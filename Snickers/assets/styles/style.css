@@ -1,0 +1,675 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.navigation {
+  width: 100%;
+  height: 162px;
+  background-color: #410c00;
+  display: flex;
+}
+.logoleftcorner {
+  width: 211px;
+  height: 70px;
+  padding: 44px 20px 27px 82px;
+}
+.option1 {
+  list-style: none;
+  background: #410c00;
+  color: white;
+  font-family: DrupalPrimaryTypefaceFont, Arial, Helvetica Neue, Helvetica,
+    sans-serif;
+  margin: 63px 0px 0px 0px;
+  font-weight: 700;
+  height: fit-content;
+}
+
+.list {
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+.ul {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.l1 {
+  padding: 0px 48px 0px 0px;
+}
+
+.l2 {
+  list-style: none;
+  display: inline-flex !important;
+
+  padding: 0;
+}
+
+.option2 {
+  font-weight: bolder;
+  color: white;
+  font-family: DrupalPrimaryTypefaceFont, Arial, Helvetica Neue, Helvetica,
+    sans-serif;
+  padding-right: 10px;
+  margin: 8px 0 0 0;
+  font-size: 14px;
+  width: 30%;
+  margin-left: 20px;
+}
+.option2 ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+.option2 ul li {
+  list-style: none;
+  display: inline-block;
+}
+.page {
+  width: 100%;
+}
+.vid1 {
+  width: 100%;
+  box-sizing: inherit;
+}
+
+.textinside {
+  position: absolute;
+  color: white;
+  border: none;
+  font-family: sans-serif;
+  margin: auto;
+  padding-left: 17px;
+  padding: 190px 0px 0px 90px;
+  font-size: 20px;
+  letter-spacing: -2px;
+  font-size: 30px;
+}
+
+.seethelineup {
+  color: white;
+  font-family: sans-serif;
+  border-style: none;
+  border-radius: 33px 33px 33px 33px;
+  position: absolute;
+  background-color: #210082;
+  font-weight: 700;
+  align-content: center;
+  width: 182px;
+  height: 60px;
+  padding: 0px 0 0 0;
+  letter-spacing: 1px;
+  margin: 330px 0px 0px 90px;
+}
+
+.hungry {
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  position: absolute;
+  padding: 165px 0px 0px 90px;
+  font-size: small;
+  font-weight: bolder;
+}
+
+.secondspot {
+  width: 100%;
+  height: 660px;
+  background-color: #e5ac49;
+  margin: -44px 0 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.picinside {
+  width: auto;
+  height: 185px;
+  padding: 95px 0 0 39px;
+}
+
+.hello1 {
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: small;
+  margin: -140px 0 0 780px;
+}
+.text {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 50px;
+  margin: 55px 0 0 776px;
+  color: white;
+}
+.letsgo {
+  background-color: #210082;
+  border: none;
+  color: white;
+  position: absolute;
+  align-content: center;
+  height: 60px;
+  width: 202px;
+  margin: 385px 0 0 777px;
+  font-weight: 900;
+  border-radius: 33px 33px 33px 33px;
+}
+.thirdspot {
+  background-color: white;
+  height: 793.34px;
+  width: 100%;
+  position: relative;
+}
+
+.thirdtext {
+  color: #410c00;
+  font-size: 35px;
+  position: absolute;
+  margin: 41px 0 0 520px;
+  font-weight: 1000;
+  font-family: sans-serif;
+  letter-spacing: -1px;
+}
+
+.thirdone {
+  width: 330px;
+  position: absolute;
+  margin: 200px 0 0 120px;
+}
+
+.thirdtwo {
+  width: 330px;
+  position: absolute;
+  margin: 200px 0 0 565px;
+}
+
+.thirdthird {
+  width: 330px;
+  position: absolute;
+  margin: 200px 0 0 1010px;
+}
+
+.thirdtextone {
+  color: #410c00;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 1000;
+  margin: 570px 0 0 195px;
+  position: absolute;
+  letter-spacing: -0.5px;
+  text-align: center;
+}
+
+.thirdtexttwo {
+  color: #410c00;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 1000;
+  margin: 570px 0 0 665px;
+  position: absolute;
+  letter-spacing: -0.5px;
+  text-align: center;
+}
+
+.thirdtextthree {
+  color: #410c00;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 1000;
+  margin: 570px 0 0 1110px;
+  position: absolute;
+  letter-spacing: -0.5px;
+  text-align: center;
+}
+
+.thirdtextthird {
+  color: #410c00;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 1000;
+  margin: 45px 0 0 500px;
+  position: absolute;
+}
+
+.buttonthird1 {
+  background-color: #210082;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  margin: 655px 0 0 195px;
+  border-radius: 33px 33px 33px 33px;
+  text-align: center;
+  width: 157px;
+  height: 50px;
+}
+
+.buttonthird2 {
+  background-color: #210082;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  margin: 655px 0 0 665px;
+  text-align: center;
+  width: 157px;
+  height: 50px;
+  border-radius: 33px 33px 33px 33px;
+}
+.buttonthird3 {
+  background-color: #210082;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  margin: 655px 0 0 1110px;
+  border-radius: 33px 33px 33px 33px;
+  text-align: center;
+  width: 157px;
+  height: 50px;
+}
+.fourthspot {
+  position: relative;
+  height: auto;
+}
+.fourthspotimg {
+  width: 100%;
+  height: 750px;
+  position: relative;
+}
+.fourthspottextmain {
+  position: absolute;
+  top: 0;
+  margin: 300px 0 0 210px;
+  color: white;
+  font-weight: 900;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: -1px;
+}
+.fourthspottextrec {
+  color: white;
+  font-weight: 700;
+  font-family: sans-serif;
+  margin: 210px 0 0 580px;
+  position: absolute;
+  top: 0;
+}
+
+.fourthspotbuttoncontainer {
+  top: 0;
+  position: absolute;
+}
+
+.fourthspotbutton {
+  color: #210082;
+  background-color: white;
+  border-radius: 33px 33px 33px 33px;
+  position: absolute;
+  border: none;
+  margin: 530px 0 0 580px;
+  top: 0;
+  font-weight: 800;
+  width: 190px;
+  height: 55px;
+  letter-spacing: 1px;
+}
+.fourthspotcontentcontainer {
+  width: 315px;
+  height: 520.2px;
+  background-color: #410c00;
+  top: 0;
+  position: absolute;
+  margin: 150px 0 0 1140px;
+  border-radius: 22px 22px 22px 22px;
+}
+
+.fourthcontainerimg {
+  width: 255px;
+  height: 255px;
+  margin: 55px 0 0 30.5px;
+}
+
+.fourthspotcontainerheading {
+  position: absolute;
+  top: 0;
+}
+
+.fourthspotcontainerheading1 {
+  position: absolute;
+  margin: 20px 0 0 100px;
+  color: white;
+  font-weight: 800;
+  font-family: sans-serif;
+  width: 105px;
+}
+.fourthspotdescriptioncontainer {
+  bottom: 0;
+  position: absolute;
+}
+
+.fourthspotdescriptioncontainer1 {
+  color: white;
+  font-weight: 1000;
+  font-family: sans-serif;
+  margin: 0 0 90px 30px;
+  font-size: 18px;
+  bottom: 0;
+}
+
+.fourthseedetails {
+  color: white;
+  background-color: #210082;
+  border: none;
+  font-family: sans-serif;
+  font-weight: 800;
+  width: 133px;
+  height: 50px;
+  border-radius: 22px 22px 22px 22px;
+  margin: 0 0 15px 170px;
+  bottom: 0;
+  position: absolute;
+}
+
+.fourthwheretobuy {
+  color: white;
+  background-color: #210082;
+  border: none;
+  font-family: sans-serif;
+  font-weight: 800;
+  width: 131px;
+  height: 50px;
+  border-radius: 22px 22px 22px 22px;
+  margin: 0 0 15px 15px;
+  bottom: 0;
+  position: absolute;
+}
+
+.fifthspotcontainer {
+  position: relative;
+  width: 100%;
+  height: 550px;
+}
+
+.fifthspot {
+  width: 100%;
+  height: 555px;
+  position: relative;
+  margin: -5px 0 0 0;
+}
+
+.fifthspotheading {
+  position: absolute;
+  color: white;
+  margin: 65px 0 0 700px;
+  top: 0;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.fifthspotheading2 {
+  position: absolute;
+  color: white;
+  margin: 115px 0 0 430px;
+  top: 0;
+  font-family: sans-serif;
+  font-weight: 1000;
+  font-size: 40px;
+  letter-spacing: -1px;
+}
+
+.fifthspotheadingline {
+  position: absolute;
+  margin: 0 0 65px -865px;
+  width: 200px;
+  height: 500px;
+  bottom: 0;
+}
+
+.fifthspotdescription {
+  position: absolute;
+  margin: 320px 0 0 460px;
+  top: 0;
+  color: white;
+  font-family: sans-serif;
+  font-size: 23px;
+}
+
+.fifthspotbutton {
+  position: absolute;
+  color: white;
+  background-color: #210082;
+  top: 0;
+  margin: 395px 0 0 660px;
+  width: 200px;
+  height: 60px;
+  border-radius: 33px 33px 33px 33px;
+  border: none;
+  font-weight: 800;
+}
+
+.sixthspot {
+  width: 100%;
+  height: 611px;
+  margin: -3px 0 0 0;
+
+  position: relative;
+}
+.line {
+  position: absolute;
+  margin: -135px 0 0 535px;
+  width: 300px;
+  height: 500px;
+}
+.seventhspot {
+  width: 100%;
+  height: 719.45px;
+  background-color: white;
+  position: relative;
+}
+
+.textseventh {
+  color: #410c00;
+  font-family: sans-serif;
+  font-weight: 1000;
+  position: absolute;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  margin: 25px 0 0 550px;
+}
+.line1 {
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  margin: -135px 0 0 590px;
+}
+.seventhimg1 {
+  height: 300px;
+  width: 300px;
+  margin: 210px 0 0 1110px;
+  border-radius: 22px 22px 22px 22px;
+  box-shadow: #410c00;
+  position: absolute;
+}
+.seventhimg2 {
+  height: 300px;
+  width: 300px;
+  margin: 210px 0 0 750px;
+  border-radius: 22px 22px 22px 22px;
+  box-shadow: #410c00;
+  position: absolute;
+}
+.seventhimg3 {
+  height: 300px;
+  width: 300px;
+  margin: 210px 0 0 400px;
+  border-radius: 22px 22px 22px 22px;
+  box-shadow: #410c00;
+  position: absolute;
+}
+.seventhimg4 {
+  height: 300px;
+  width: 300px;
+  margin: 210px 0 0 50px;
+  border-radius: 22px 22px 22px 22px;
+  box-shadow: #410c00;
+  position: absolute;
+}
+
+.logobottom {
+  width: 211px;
+  height: 70px;
+  margin: 48px 0 0 65px;
+}
+
+.eighthspot {
+  position: relative;
+  background-color: #e5ac49;
+  width: 100%;
+  height: 166px;
+}
+
+.eighthspotnav {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin: -70px 0 0 300px;
+}
+
+.eighthspotlist {
+  margin-right: 30px;
+  color: #410c00;
+  font-weight: 800;
+  font-family: sans-serif;
+}
+
+.ninthspot {
+  position: relative;
+  height: 481px;
+  width: 100%;
+  background-color: #410c00;
+}
+
+.ninthspotmainheader {
+  position: absolute;
+  color: white;
+  font-family: sans-serif;
+  margin: 30px 0 0px 85px;
+  font-weight: 700;
+}
+
+.socialmedialogos {
+  width: 190px;
+  height: 190px;
+  position: absolute;
+  margin: 0 0 0 80px;
+  top: 0;
+}
+
+.ninthspotmainheader2 {
+  position: absolute;
+  color: white;
+  font-family: sans-serif;
+  margin: 200px 0 0px 85px;
+  font-weight: 700;
+}
+
+.ninthspotmainheader2button {
+  position: absolute;
+  color: #410c00;
+  background-color: white;
+  border: none;
+  border-radius: 30px 30px 30px 30px;
+  width: 313px;
+  height: 60px;
+  margin: 230px 0 0 85px;
+  text-align: left;
+  font-weight: 400;
+  padding: 0 0 0 25px;
+}
+
+.ninthspotline {
+  width: 80%;
+  position: absolute;
+}
+
+.ninthspotmainheader3 {
+  position: absolute;
+  color: white;
+  font-family: sans-serif;
+  margin: 0 0 95px 85px;
+  bottom: 0;
+  font-weight: 1000;
+  letter-spacing: 1px;
+}
+
+.ninthspotmainheader3button {
+  position: absolute;
+  color: white;
+  background-color: #410c00;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 30px 30px 30px 30px;
+  width: 202px;
+  height: 63px;
+  bottom: 0;
+  margin: 0 0 15px 85px;
+  font-weight: 900;
+}
+
+.ninthspotinfo1 {
+  margin: 30px 0 0 490px;
+  position: absolute;
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: smaller;
+}
+
+.ninthspotinfo2 {
+  position: absolute;
+  margin: 30px 0 0 815px;
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: smaller;
+}
+
+.ninthspotinfo3 {
+  position: absolute;
+  margin: 30px 0 0 1100px;
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: smaller;
+}
+
+.privacyimg {
+  width: 33px;
+  height: 15.4px;
+  position: absolute;
+  right: 0;
+  margin: 100px 215px 0 0;
+}
+
+.descheading {
+  position: absolute;
+  color: white;
+  margin: 210px 0 0 490px;
+  font-family: sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.ninthspotdesc {
+  position: absolute;
+  color: white;
+  margin: 230px 0 0 490px;
+  font-family: sans-serif;
+  font-size: smaller;
+}
+
+.ninthspotline {
+  position: absolute;
+  width: 90%;
+  height: 0.5px;
+  bottom: 0;
+  margin: 0px 0px 160px 81px;
+}
